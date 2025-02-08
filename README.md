@@ -1,4 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=DammyAA7&color=brightgreen)  ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=DammyAA7&color=brightgreen)  
+## Hi there 👋
 
 I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currently, I'm pursuing a **Master’s in Computer and Electrical Engineering**. Passionate about problem-solving, software development, and continuous learning! 🚀
 
