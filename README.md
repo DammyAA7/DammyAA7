@@ -4,8 +4,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight)](https://github.com/DammyAA7)
-
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/oluwadamilola-adebayo)](https://leetcode.com/u/oluwadamilola-adebayo/)
 
 <!--
