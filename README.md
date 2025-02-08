@@ -8,10 +8,10 @@ I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Curr
 
 ### 📊 GitHub Stats & Coding Profiles:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight)](https://github.com/DammyAA7)
-
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/oluwadamilola-adebayo)](https://leetcode.com/u/oluwadamilola-adebayo/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight" width="400" height="200">
+  <img src="https://leetcard.jacoblin.cool/oluwadamilola-adebayo" width="400" height="200">
+</div>
 
 ### 💡 A little more about me:
 - 🌱 I’m currently learning **cloud computing & system design**
