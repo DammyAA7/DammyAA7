@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/oluwadamilola-adebayo)](https://leetcode.com/u/oluwadamilola-adebayo/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSOG12&layout=compact&theme=tokyonight)](https://github.com/DammyAA7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight)](https://github.com/DammyAA7)
 
 <!--
 **DammyAA7/DammyAA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
