@@ -9,7 +9,7 @@ I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Curr
 ### 📊 GitHub Stats & Coding Profiles:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight" width="500" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight" width="500" height="200">
   <img src="https://leetcard.jacoblin.cool/oluwadamilola-adebayo" width="500" height="300">
 </div>
 
