@@ -3,7 +3,7 @@
 
 I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currently, I'm pursuing a **Master’s in Computer and Electrical Engineering**. Passionate about problem-solving, software development, and continuous learning! 🚀
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt6ODNkNHdmZWMzc3k3dnFjNGZuMTg1eDBlNTVtemlyZTN1OWhnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="800" height="400">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt6ODNkNHdmZWMzc3k3dnFjNGZuMTg1eDBlNTVtemlyZTN1OWhnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="1200" height="400">
 
 
 ### 📊 GitHub Stats & Coding Profiles:
