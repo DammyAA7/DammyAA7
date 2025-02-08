@@ -1,25 +1,20 @@
 ## Hi there 👋
 
-![!](https://komarev.com/ghpvc/?username=DammyAA7&color=brightgreen)
+I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currently, I'm pursuing a **Master’s in Computer and Electrical Engineering**. Passionate about problem-solving, software development, and continuous learning! 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=DammyAA7&color=brightgreen)
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlsbmtteGZnM3M3ZWhqbDd6OHJjemMxdmlra3U5YXlnMGN2OTM1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif)
 
+### 📊 GitHub Stats & Coding Profiles:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight)](https://github.com/DammyAA7)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/oluwadamilola-adebayo)](https://leetcode.com/u/oluwadamilola-adebayo/)
 
-<!--
-**DammyAA7/DammyAA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 A little more about me:
+- 🌱 I’m currently learning **cloud computing & system design**
+- 🔭 I’m working on **competitive programming & full-stack projects**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I love solving coding challenges and playing chess! 🏆♟️
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and build something amazing together! 🚀
