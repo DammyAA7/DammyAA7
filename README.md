@@ -16,7 +16,7 @@ I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Curr
 ### 💡 A little more about me:
 - 🌱 I’m currently learning **cloud computing & system design**
 - 🔭 I’m working on **competitive programming & full-stack projects**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oluwadamilola-adebayo) | [Email](mailto:dammyade07@gmaiil.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oluwadamilola-adebayo) | [Email](mailto:dammyade07@gmail.com)
 - ⚡ Fun fact: I love solving coding challenges and playing chess! 🏆♟️
 
 Let's connect and build something amazing together! 🚀
