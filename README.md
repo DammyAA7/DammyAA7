@@ -5,6 +5,8 @@ I'm **DammyAA7**, an **incoming Software Engineer at JPMorgan Chase & Co.** Curr
 
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt6ODNkNHdmZWMzc3k3dnFjNGZuMTg1eDBlNTVtemlyZTN1OWhnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlsbmtteGZnM3M3ZWhqbDd6OHJjemMxdmlra3U5YXlnMGN2OTM1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" width="400" height="200">
+
 
 ### 📊 GitHub Stats & Coding Profiles:
 
