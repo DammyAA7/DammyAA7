@@ -2,7 +2,7 @@
 
 ![!](https://komarev.com/ghpvc/?username=DammyAA7&color=brightgreen)
 
-[!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlsbmtteGZnM3M3ZWhqbDd6OHJjemMxdmlra3U5YXlnMGN2OTM1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlsbmtteGZnM3M3ZWhqbDd6OHJjemMxdmlra3U5YXlnMGN2OTM1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight)](https://github.com/DammyAA7)
