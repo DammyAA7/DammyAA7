@@ -15,7 +15,7 @@ I'm **Dami**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currentl
 
 ### 💡 A little more about me:
 - 🌱 I’m currently learning **cloud computing & system design**
-- 🔭 I’m working on **[Overlap](https://github.com/DammyAA7/Overlapd)** a mobile app aimed to piggyback on existing routes and eliminate the need for extra vehicles on the road. Alongside this, I'm also working on **[Spotify Song recommendation feature](https://github.com/DammyAA7/spotify)**. A feature that sits on top of Spotify's web app and allows users to recommend songs to their friends.
+- 🔭 I’m working on **[Overlap](https://github.com/DammyAA7/Overlapd)** a mobile app aimed at moving people and delivering packages by piggybacking on existing routes and eliminating the need for extra vehicles on the road. I'm also working on a **[Spotify Song recommendation feature](https://github.com/DammyAA7/spotify)**. A feature that sits on top of Spotify's web app and allows users to recommend songs to their friends.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oluwadamilola-adebayo) | [Email](mailto:dammyade07@gmail.com)
 - ⚡ Fun fact: I love solving coding challenges and playing chess! 🏆♟️
 
