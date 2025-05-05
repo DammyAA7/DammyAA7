@@ -12,14 +12,9 @@ I'm **Dami**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currentl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DammyAA7&layout=compact&theme=tokyonight" width="500" height="250">
   <img src="https://leetcard.jacoblin.cool/oluwadamilola-adebayo" width="500" height="300">
 </div>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yashika51&show_icons=true alt=yashika51 /> </p>
 
-<p align="center">
-<a href=https://dev.to/yashika51 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="yashika51" height="20" width="20" /></a>
-<a href=https://twitter.com/yashika51 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="yashika51" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/yashikasharma5174/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="yashika51" height="20" width="20" /></a>
-<a href=https://instagram.com/_yashika_sharma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_yashika_sharma" height="20" width="20" /></a>
-</p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=DammyAA7&show_icons=true alt=DammyAA7 /> </p>
+
 ### 💡 A little more about me:
 - 🌱 I’m currently learning **cloud computing & system design**
 - 🔭 I’m working on **[Overlap](https://github.com/DammyAA7/Overlapd)** a mobile app aimed at moving people and delivering packages by piggybacking on existing routes and eliminating the need for extra vehicles on the road. I'm also working on a **[Spotify Song recommendation feature](https://github.com/DammyAA7/spotify)**. A feature that sits on top of Spotify's web app and allows users to recommend songs to their friends.
@@ -27,3 +22,10 @@ I'm **Dami**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currentl
 - ⚡ Fun fact: I love solving coding challenges and playing chess! 🏆♟️
 
 Let's connect and build something amazing together! 🚀
+
+<p align="center">
+<a href=https://dev.to/dammyaa7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="DammyAA7" height="20" width="20" /></a>
+<a href=https://twitter.com/dammy_a7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="dammy_a7" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/oluwadamilola-adebayo/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="oluwadamilola-adebayo" height="20" width="20" /></a>
+<a href=https://instagram.com/dammy_a7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="dammy_a7" height="20" width="20" /></a>
+</p>
