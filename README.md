@@ -24,8 +24,8 @@ I'm **Dami**, an **incoming Software Engineer at JPMorgan Chase & Co.** Currentl
 Let's connect and build something amazing together! 🚀
 
 <p align="center">
-<a href=https://dev.to/dammyaa7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="DammyAA7" height="20" width="20" /></a>
-<a href=https://twitter.com/dammy_a7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="dammy_a7" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/oluwadamilola-adebayo/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="oluwadamilola-adebayo" height="20" width="20" /></a>
-<a href=https://instagram.com/dammy_a7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="dammy_a7" height="20" width="20" /></a>
+<a href=https://dev.to/dammyaa7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="DammyAA7" height="20" width="20" style="filter: invert(100%)"/></a>
+<a href=https://twitter.com/dammy_a7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="dammy_a7" height="20" width="20" style="filter: invert(100%)"/></a>
+<a href=https://linkedin.com/in/oluwadamilola-adebayo/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="oluwadamilola-adebayo" height="20" width="20" style="filter: invert(100%)"/></a>
+<a href=https://instagram.com/dammy_a7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="dammy_a7" height="20" width="20" style="filter: invert(100%)"/></a>
 </p>
